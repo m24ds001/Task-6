@@ -1,5 +1,5 @@
 ---
-title: Multilingual AI Chatbot
+title: Advanced Multilingual AI Chatbot
 emoji: 🌍
 colorFrom: blue
 colorTo: purple
@@ -10,15 +10,34 @@ pinned: false
 license: mit
 ---
 
-# 🌍 Multilingual AI Chatbot
+# 🌍 Advanced Multilingual AI Chatbot
 
-An advanced multilingual chatbot supporting 5 languages with automatic language detection, sentiment analysis, and culturally appropriate responses.
+An advanced multilingual chatbot supporting **8 languages** with automatic language detection, cross-lingual sentiment analysis, and culturally appropriate, time-aware responses.
 
 ## Features
-- Supports English, Spanish, French, German, Hindi
-- Automatic language detection
-- Sentiment analysis
-- Cultural awareness
+
+### 🌐 Multilingual Support
+- Now supports **8 languages**: English (en), Spanish (es), French (fr), German (de), Hindi (hi), **Portuguese (pt)**, **Italian (it)**, and **Russian (ru)**.
+- **Automatic Language Detection** for all supported languages.
+- **Seamless Language Switching** for user input and bot response.
+
+### 🧠 Advanced Language Processing
+- **Cross-lingual Sentiment Analysis**: User input in any supported language is analyzed for sentiment (Positive/Negative/Neutral) to tailor the bot's tone.
+- **Culturally Appropriate Responses**: The bot uses language-specific greetings, farewells, and 'thank you' responses.
+- **Time-Aware Greetings**: Responses adapt to the time of day (morning, afternoon, evening) in the detected or selected language.
+- **Intent Recognition**: Recognizes common conversational intents like Greetings, Farewells, and Thanks in all 8 languages to provide direct, specific replies.
 
 ## Usage
-Simply type your message in any supported language and the bot will respond appropriately!
+Simply type your message in any supported language and the bot will automatically detect it and generate a contextually and culturally appropriate response. You can also explicitly choose the response language using the dropdown selector.
+
+## Supported Language Codes
+| Language | Code |
+| :--- | :--- |
+| English | **en** |
+| Spanish (Español) | **es** |
+| French (Français) | **fr** |
+| German (Deutsch) | **de** |
+| Hindi (हिन्दी) | **hi** |
+| **Portuguese** | **pt** |
+| **Italian** | **it** |
+| **Russian** | **ru** |
